@@ -1,2 +1,20 @@
-# Kisan-setu
-Kisan Setu is a farmer-centric platform that connects farmers directly with buyers and helps them make better decisions through mandi price comparisons, a smart net profit calculator, direct logistics, and shared transportation. The platform also supports multilingual and voice input features for a more accessible user experience.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/1849d14e-1114-449d-8837-2627ccbb39cc
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
